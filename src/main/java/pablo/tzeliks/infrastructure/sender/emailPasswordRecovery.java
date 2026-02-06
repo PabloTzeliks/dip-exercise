@@ -6,6 +6,6 @@ public class emailPasswordRecovery implements NotificationSender {
 
     @Override
     public void send(String destiny, String message) {
-
+        System.out.println("Your recovery Code was sent to " + destiny + ", message " + message);
     }
 }
