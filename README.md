@@ -250,7 +250,7 @@ public class Main {
 <!-- Espaço reservado para o diagrama de arquitetura -->
 <!-- O diagrama será adicionado aqui -->
 
-_Diagrama a ser adicionado mostrando a relação entre as camadas e a inversão de dependência._
+<img width="1418" height="1092" alt="diagrama-arquitetura" src="https://github.com/user-attachments/assets/6c2e4393-0070-4136-9044-181ac0125be4" />
 
 ## 🛠️ Tecnologias Utilizadas
 
