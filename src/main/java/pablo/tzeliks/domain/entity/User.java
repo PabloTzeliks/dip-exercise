@@ -43,4 +43,12 @@ public class User {
     public void setPassword(Password password) {
         this.password = password;
     }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                ", email='" + email + '\'' +
+                ", Telephone='" + Telephone + '\'' +
+                '}';
+    }
 }
